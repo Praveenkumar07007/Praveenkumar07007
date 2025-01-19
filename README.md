@@ -1,46 +1,49 @@
+<h1>Hi There, I'm Praveen Kumar <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate  developer from India</h3>
+I'm a **Full Stack Web Developer** from India currently pursuing a degree in Computer Science and Engineering at Lovely Professional University. My day-to-day work revolves around building innovative software solutions and exploring modern web technologies. I'm open to collaborating on exciting projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkumar07007" alt="praveenkumar07007" /></a> </p>
+## Skill Set :muscle:
 
-<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+These are some of the major technologies that I use or have worked on in the past:
 
+**Programming Languages**
 
+<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+|--|--|--|--|--|
 
-- 🌱 I’m currently learning **Web development**
+**Libraries and Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Praveenkumar07007?tab=repositories](https://github.com/Praveenkumar07007?tab=repositories)
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">|<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+|--|--|--|--|--|
 
-- 💬 Ask me about Html || CSS || TailWind CSS || React || Redux || Node js || Express js || MonogDb ||  JAVA || CPP || DSA 
+**Databases**
 
-- 📫 How to reach me **praveenpream36@gmail.com**
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png">
+|--|--|--|
 
+**Tools**
 
+<img title="Git" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">|<img title="Photoshop" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+|--|--|--|
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/praveenkumar07007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/praveenkumar07007" height="30" width="40" /></a>
-<a href="https://dev.to/praveenkumar07007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/praveenkumar07007" height="30" width="40" /></a>
-<a href="https://twitter.com/mysticbachelor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mysticbachelor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praveen-kumar-begusarai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-kumar-begusarai/" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/praveenkumar07007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/praveenkumar07007" height="30" width="40" /></a>
-<a href="https://fb.com/akshat.rawat.10236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akshat.rawat.10236" height="30" width="40" /></a>
-<a href="https://instagram.com/_kr.praveen_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_kr.praveen_/" height="30" width="40" /></a>
-<a href="https://dribbble.com/praveenkumar07007?onboarding=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/praveenkumar07007?onboarding=true" height="30" width="40" /></a>
-<a href="https://hashnode.com/@praveenkumar07007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@praveenkumar07007" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uc3j26h5jamtdm3citxefjea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3j26h5jamtdm3citxefjea" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/@praveen07007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@praveen07007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/praveenpream36?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/praveenpream36?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/praveenkumar07007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveenkumar07007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/praveenkumar451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="praveenkumar451" height="30" width="40" /></a>
+## GitHub Stats :chart_with_upwards_trend:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkumar07007&show_icons=true&locale=en" alt="praveenkumar07007" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumar07007&" alt="praveenkumar07007" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Praveenkumar07007&show_icons=true&locale=en&layout=compact" alt="praveenkumar07007" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## How to Reach Me 📫
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkumar07007&show_icons=true&locale=en&layout=compact" alt="praveenkumar07007" /></p>
+Feel free to connect with me through the following platforms:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumar07007&show_icons=true&locale=en" alt="praveenkumar07007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar07007&" alt="praveenkumar07007" /></p>
+- 📧 Email: **praveenpream36@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/praveen-kumar-sde/)
+- 🐦 [Twitter](https://twitter.com/praveendotpro)
+- 🌐 [GitHub](https://github.com/Praveenkumar07007)
+- 🔗 [Portfolio](https://praveen-kumar-portfolio.vercel.app/)
