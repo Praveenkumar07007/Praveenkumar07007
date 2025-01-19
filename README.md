@@ -28,10 +28,10 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## GitHub Stats :chart_with_upwards_trend:
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=Praveenkumar07007&show_icons=true&locale=en" alt="praveenkumar07007" />
 </p>
-<p align="center">
+<p align="end">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumar07007&" alt="praveenkumar07007" />
 </p>
 <p align="center">
