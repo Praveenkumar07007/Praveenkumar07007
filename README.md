@@ -1,4 +1,4 @@
-<h1>Hi There, I'm Praveen Kumar <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Full Stack Web Developer** from India currently pursuing a degree in Computer Science and Engineering at Lovely Professional University. My day-to-day work revolves around building innovative software solutions and exploring modern web technologies. I'm open to collaborating on exciting projects.
 
