@@ -46,4 +46,4 @@ Feel free to connect with me through the following platforms:
 - 💼 [LinkedIn](https://www.linkedin.com/in/praveen-kumar-sde/)
 - 🐦 [Twitter](https://twitter.com/praveendotpro)
 - 🌐 [GitHub](https://github.com/Praveenkumar07007)
-- 🔗 [Portfolio](https://praveen-kumar-portfolio.vercel.app/)
+- 🔗 [Portfolio](https://portfolio-praveen-rho-vercel.app)
